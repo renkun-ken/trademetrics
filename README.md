@@ -5,4 +5,4 @@
 [![codecov.io](http://codecov.io/github/renkun-ken/trademetrics/coverage.svg?branch=master)](http://codecov.io/github/renkun-ken/trademetrics?branch=master)
 [![CRAN Version](http://www.r-pkg.org/badges/version/trademetrics)](http://cran.rstudio.com/web/packages/trademetrics)
 
-trademetrics provides a collection of trading performance measures, including return measures, risk measures, risk-adjusted return measures, and indicators for other purposes. These measures are implemented without heavy dependencies and thus work with high performance, which can be time-efficient in batch computing wtih massive trading/backtest data.
+trademetrics provides a collection of trading performance measures, including return measures, risk measures, risk-adjusted return measures, and indicators for other purposes. These measures are implemented without heavy dependencies and thus work with high performance, which can be time-efficient in batch computing with massive trading/backtest data.
