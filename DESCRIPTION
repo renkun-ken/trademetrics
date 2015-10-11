@@ -1,0 +1,18 @@
+Package: trademetrics
+Title: A Collection of Trading Performance Measures
+Version: 0.0.0.9000
+Authors@R: person("Kun", "Ren", email = "ken@renkun.me", role = c("aut", "cre"))
+Description: Provides a collection of trading performance measures, including
+    return measures, risk measures, risk-adjusted return measures, and indicators
+    for other purposes. These measures are implemented without heavy dependencies
+    and thus work with high performance, which can be time-efficient in
+    batch computing with massive trading/backtest data.
+Depends: R (>= 2.15)
+Suggests: testthat
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/renkun-ken/trademetrics
+BugReports: https://github.com/renkun-ken/trademetrics/issues
+Roxygen: list(wrap = FALSE)
+ByteCompile: TRUE
+LazyData: true
